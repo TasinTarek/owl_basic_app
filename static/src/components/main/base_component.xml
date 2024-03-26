@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates xml:space="preserve">
+    <t t-name="owl_basic_app.TemplateName" owl="1">
+        <div class="vh-100 overflow-auto">
+            <h1 class="text-center text-primary">
+                Basic Owl App
+            </h1>
+        </div>
+    </t>
+</templates>
